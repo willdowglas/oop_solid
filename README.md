@@ -1,4 +1,4 @@
 ```
 docker-compose build
-docker-compose run ruby ruby aula_01/bank_account/v08/main.rb
+docker-compose run ruby ruby exercises_01/v09/app.rb
 ```
